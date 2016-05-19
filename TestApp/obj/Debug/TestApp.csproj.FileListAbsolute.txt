@@ -1,0 +1,9 @@
+c:\users\p-tuan\documents\visual studio 2013\Projects\TestApp\TestApp\bin\Debug\TestApp.exe
+c:\users\p-tuan\documents\visual studio 2013\Projects\TestApp\TestApp\bin\Debug\TestApp.pdb
+c:\users\p-tuan\documents\visual studio 2013\Projects\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+c:\users\p-tuan\documents\visual studio 2013\Projects\TestApp\TestApp\obj\Debug\TestApp.Form1.resources
+c:\users\p-tuan\documents\visual studio 2013\Projects\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+c:\users\p-tuan\documents\visual studio 2013\Projects\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
+c:\users\p-tuan\documents\visual studio 2013\Projects\TestApp\TestApp\obj\Debug\TestApp.exe
+c:\users\p-tuan\documents\visual studio 2013\Projects\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\P-Tuan\Documents\Visual Studio 2013\Projects\TestApp\TestApp\bin\Debug\book1.txt
